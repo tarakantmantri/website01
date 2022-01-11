@@ -8,7 +8,7 @@ color: red;
 font-size: 25px;
 }
 h2 {color: green;}
-.Big { font-size: 60px; }
+.Big { font-size: 40px; }
 .up {text-transform: uppercase;}
 .Big.up{color: navy;}
 h1 span {color: violet;}

@@ -1,0 +1,21 @@
+h2{
+    color: rgb(107, 107, 156);
+    background-color: darkgreen;
+    text-align: center;
+}
+button {
+    color: chartreuse;
+}
+p {
+    color: rgb(12, 9, 24);
+    background: darkorange;
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    color: darkred;
+    text-decoration: wavy underline;
+
+}

@@ -119,13 +119,31 @@
         <label for="foodid"> Select the food</label>
         <select name="food" id="foodid">Select the type of food you Want
             <option value="fish">fish</option>
-            <option value="chicken">chicken</option>
+            <option value="chicken" selected>chicken</option>
             <option value="motten">Motten</option>
             <option value="veggg">veg</option>
         </select>
-        <button>Submit</button>
+        <p>
+            <label for="happy">Happiness level</label>
+            <input type="range" name="range" id="happy" min="0" max="100" step="5">
+        </p>
+        <textarea name="Text" id="text area" cols="10" 0 rows="5" placeholder="Enter the test over here"
+            aria-valuemax="50"></textarea>
+        <br><button>Submit</button>
     </form>
     </P>
+    <h2>Practice</h2>
+    <form action="/register">
+        <label for="username">Username</label>
+        <input type="text" required minlength="5" maxlength="10" id="username" name="username" placeholder="username">
+        <br>
+        <label for="em">Enter your email</label>
+        <input type="email" name="email" id="em" required> <br>
+        <label for="password" Password>Password</label>
+        <input type="password" id="password" placeholder="password" name="pas" required minlength="10">
+        <br>
+        <button>register</button>
+    </form>
     <!-- http://127.0.0.1:5500/birds?agree=on -->
     <!-- file:///C:/submiit?un=tarakanta+Mantri&date=1998-06-05&pas=Huuuuhuhuh1123g&color=%23924545&bf=on&sexm=on&Country=INDIA -->
 </body>

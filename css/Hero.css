@@ -7,13 +7,14 @@ line-height: 30px;}
 /* Header elements*/
 /*This is a Comment*/
 header{
-	background-color: #d14635;
+	background-color: #a32a1a;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
 h1, h2 {font-family: 'Press Start 2P', serif;
-font-family: 'Cinzel', cursive;}
+font-family: 'Cinzel', cursive;
+text-align: center;}
 header h1 {
 	color: white;
 	font-size: 35px;

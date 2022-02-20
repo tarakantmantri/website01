@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    text-decoration: blue dashed underline;
+
+    font-size: 50px;
+    font-family: monospace;
+    color: darksalmon;
+}
+h1:hover {
+    font-size: 55px;
+    color: blue;
+}
+h1 ::selection {
+    background-color: yellow;
+}
+p{
+    line-height: 30px;
+}
+
+}
+span {
+    color: lightcoral;
+}
+.tag {
+    background-color: aqua;
+}
+.tag2   {
+    background-color:darkcyan ;
+}
+h2{
+    color: aliceblue;
+}
+input  {
+    color: red;
+}
+form {
+    color: brown;
+    font-size: large;
+}
+button {
+    color: darkred;
+}
+button:hover{
+    background-color: black;
+    color: #ccc;
+}
+a:hover {
+    text-decoration: dashed;
+
+}
+p ::first-letter {
+    font-size: 50px;
+}
+h2 ::first-letter 
+{
+    font-size: 200px;
+}
+p ::selection {
+    background-color: yellow;
+}

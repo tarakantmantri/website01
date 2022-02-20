@@ -50,3 +50,15 @@ footer a {color: white;}
 p.caption { color: #999999;
 font-style: italic; 
 margin-top: 0;}
+::selection {
+	background-color: #e70c19;
+}
+button {
+	background-color: crimson;
+	color: white;
+	
+}
+button :hover {
+	background-color: aqua;
+	color: black;
+}

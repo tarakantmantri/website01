@@ -1,0 +1,6 @@
+h1 ::selection {
+    background-color: aqua;
+}
+h1 ::first-letter {
+    background-color: blue;
+}

@@ -1,0 +1,8 @@
+section {
+    width:80%; 
+    height:800px; 
+    background-image: url("/img/ralph02.jpg");
+    background-size: cover;
+    margin: 2PX auto;
+   }
+h1 {font-size:100px; color:white}v

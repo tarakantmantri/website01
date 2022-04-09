@@ -1,0 +1,21 @@
+#div1 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display: inline-block;
+    margin: 10px;
+}
+#div2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(158, 38, 38);
+    display: inline-block;
+    margin: 10px;
+}
+#div3 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display: inline-block;
+    margin: 10px;
+}
